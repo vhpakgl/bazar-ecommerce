@@ -1,0 +1,1586 @@
+[
+  {
+    "id": "41",
+    "name": "Kadın elbise Ürün 1",
+    "slug": "kad-n-elbise-r-n-1-41",
+    "price": 682,
+    "category": "kadin-giyim",
+    "subcategory": "elbise",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "42",
+    "name": "Kadın elbise Ürün 2",
+    "slug": "kad-n-elbise-r-n-2-42",
+    "price": 1566,
+    "category": "kadin-giyim",
+    "subcategory": "elbise",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "43",
+    "name": "Kadın elbise Ürün 3",
+    "slug": "kad-n-elbise-r-n-3-43",
+    "price": 422,
+    "category": "kadin-giyim",
+    "subcategory": "elbise",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "44",
+    "name": "Kadın elbise Ürün 4",
+    "slug": "kad-n-elbise-r-n-4-44",
+    "price": 1309,
+    "category": "kadin-giyim",
+    "subcategory": "elbise",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "45",
+    "name": "Kadın tisort Ürün 1",
+    "slug": "kad-n-tisort-r-n-1-45",
+    "price": 1459,
+    "category": "kadin-giyim",
+    "subcategory": "tisort",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "46",
+    "name": "Kadın tisort Ürün 2",
+    "slug": "kad-n-tisort-r-n-2-46",
+    "price": 237,
+    "category": "kadin-giyim",
+    "subcategory": "tisort",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "47",
+    "name": "Kadın tisort Ürün 3",
+    "slug": "kad-n-tisort-r-n-3-47",
+    "price": 1137,
+    "category": "kadin-giyim",
+    "subcategory": "tisort",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "48",
+    "name": "Kadın tisort Ürün 4",
+    "slug": "kad-n-tisort-r-n-4-48",
+    "price": 1123,
+    "category": "kadin-giyim",
+    "subcategory": "tisort",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "49",
+    "name": "Kadın tisort Ürün 5",
+    "slug": "kad-n-tisort-r-n-5-49",
+    "price": 603,
+    "category": "kadin-giyim",
+    "subcategory": "tisort",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "50",
+    "name": "Kadın gomlek Ürün 1",
+    "slug": "kad-n-gomlek-r-n-1-50",
+    "price": 642,
+    "category": "kadin-giyim",
+    "subcategory": "gomlek",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "51",
+    "name": "Kadın gomlek Ürün 2",
+    "slug": "kad-n-gomlek-r-n-2-51",
+    "price": 881,
+    "category": "kadin-giyim",
+    "subcategory": "gomlek",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "52",
+    "name": "Kadın gomlek Ürün 3",
+    "slug": "kad-n-gomlek-r-n-3-52",
+    "price": 1377,
+    "category": "kadin-giyim",
+    "subcategory": "gomlek",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "53",
+    "name": "Kadın gomlek Ürün 4",
+    "slug": "kad-n-gomlek-r-n-4-53",
+    "price": 1313,
+    "category": "kadin-giyim",
+    "subcategory": "gomlek",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "54",
+    "name": "Kadın pantolon Ürün 1",
+    "slug": "kad-n-pantolon-r-n-1-54",
+    "price": 885,
+    "category": "kadin-giyim",
+    "subcategory": "pantolon",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "55",
+    "name": "Kadın pantolon Ürün 2",
+    "slug": "kad-n-pantolon-r-n-2-55",
+    "price": 776,
+    "category": "kadin-giyim",
+    "subcategory": "pantolon",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "56",
+    "name": "Kadın pantolon Ürün 3",
+    "slug": "kad-n-pantolon-r-n-3-56",
+    "price": 1551,
+    "category": "kadin-giyim",
+    "subcategory": "pantolon",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "57",
+    "name": "Kadın pantolon Ürün 4",
+    "slug": "kad-n-pantolon-r-n-4-57",
+    "price": 1588,
+    "category": "kadin-giyim",
+    "subcategory": "pantolon",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "58",
+    "name": "Kadın jean Ürün 1",
+    "slug": "kad-n-jean-r-n-1-58",
+    "price": 1437,
+    "category": "kadin-giyim",
+    "subcategory": "jean",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "59",
+    "name": "Kadın jean Ürün 2",
+    "slug": "kad-n-jean-r-n-2-59",
+    "price": 510,
+    "category": "kadin-giyim",
+    "subcategory": "jean",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "60",
+    "name": "Kadın jean Ürün 3",
+    "slug": "kad-n-jean-r-n-3-60",
+    "price": 951,
+    "category": "kadin-giyim",
+    "subcategory": "jean",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "61",
+    "name": "Kadın jean Ürün 4",
+    "slug": "kad-n-jean-r-n-4-61",
+    "price": 1399,
+    "category": "kadin-giyim",
+    "subcategory": "jean",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "62",
+    "name": "Kadın jean Ürün 5",
+    "slug": "kad-n-jean-r-n-5-62",
+    "price": 364,
+    "category": "kadin-giyim",
+    "subcategory": "jean",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "63",
+    "name": "Kadın etek Ürün 1",
+    "slug": "kad-n-etek-r-n-1-63",
+    "price": 948,
+    "category": "kadin-giyim",
+    "subcategory": "etek",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "64",
+    "name": "Kadın etek Ürün 2",
+    "slug": "kad-n-etek-r-n-2-64",
+    "price": 1123,
+    "category": "kadin-giyim",
+    "subcategory": "etek",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "65",
+    "name": "Kadın etek Ürün 3",
+    "slug": "kad-n-etek-r-n-3-65",
+    "price": 572,
+    "category": "kadin-giyim",
+    "subcategory": "etek",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "66",
+    "name": "Kadın etek Ürün 4",
+    "slug": "kad-n-etek-r-n-4-66",
+    "price": 382,
+    "category": "kadin-giyim",
+    "subcategory": "etek",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "67",
+    "name": "Kadın etek Ürün 5",
+    "slug": "kad-n-etek-r-n-5-67",
+    "price": 272,
+    "category": "kadin-giyim",
+    "subcategory": "etek",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "68",
+    "name": "Kadın kazak Ürün 1",
+    "slug": "kad-n-kazak-r-n-1-68",
+    "price": 1587,
+    "category": "kadin-giyim",
+    "subcategory": "kazak",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "69",
+    "name": "Kadın kazak Ürün 2",
+    "slug": "kad-n-kazak-r-n-2-69",
+    "price": 242,
+    "category": "kadin-giyim",
+    "subcategory": "kazak",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "70",
+    "name": "Kadın kazak Ürün 3",
+    "slug": "kad-n-kazak-r-n-3-70",
+    "price": 1183,
+    "category": "kadin-giyim",
+    "subcategory": "kazak",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "71",
+    "name": "Kadın kazak Ürün 4",
+    "slug": "kad-n-kazak-r-n-4-71",
+    "price": 1354,
+    "category": "kadin-giyim",
+    "subcategory": "kazak",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "72",
+    "name": "Kadın sweatshirt Ürün 1",
+    "slug": "kad-n-sweatshirt-r-n-1-72",
+    "price": 821,
+    "category": "kadin-giyim",
+    "subcategory": "sweatshirt",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "73",
+    "name": "Kadın sweatshirt Ürün 2",
+    "slug": "kad-n-sweatshirt-r-n-2-73",
+    "price": 1522,
+    "category": "kadin-giyim",
+    "subcategory": "sweatshirt",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "74",
+    "name": "Kadın sweatshirt Ürün 3",
+    "slug": "kad-n-sweatshirt-r-n-3-74",
+    "price": 1329,
+    "category": "kadin-giyim",
+    "subcategory": "sweatshirt",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "75",
+    "name": "Kadın sweatshirt Ürün 4",
+    "slug": "kad-n-sweatshirt-r-n-4-75",
+    "price": 236,
+    "category": "kadin-giyim",
+    "subcategory": "sweatshirt",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "76",
+    "name": "Kadın sweatshirt Ürün 5",
+    "slug": "kad-n-sweatshirt-r-n-5-76",
+    "price": 1241,
+    "category": "kadin-giyim",
+    "subcategory": "sweatshirt",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "77",
+    "name": "Erkek tisort Ürün 1",
+    "slug": "erkek-tisort-r-n-1-77",
+    "price": 1164,
+    "category": "erkek-giyim",
+    "subcategory": "tisort",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "78",
+    "name": "Erkek tisort Ürün 2",
+    "slug": "erkek-tisort-r-n-2-78",
+    "price": 709,
+    "category": "erkek-giyim",
+    "subcategory": "tisort",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "79",
+    "name": "Erkek tisort Ürün 3",
+    "slug": "erkek-tisort-r-n-3-79",
+    "price": 1212,
+    "category": "erkek-giyim",
+    "subcategory": "tisort",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "80",
+    "name": "Erkek tisort Ürün 4",
+    "slug": "erkek-tisort-r-n-4-80",
+    "price": 1065,
+    "category": "erkek-giyim",
+    "subcategory": "tisort",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "81",
+    "name": "Erkek gomlek Ürün 1",
+    "slug": "erkek-gomlek-r-n-1-81",
+    "price": 1463,
+    "category": "erkek-giyim",
+    "subcategory": "gomlek",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "82",
+    "name": "Erkek gomlek Ürün 2",
+    "slug": "erkek-gomlek-r-n-2-82",
+    "price": 1040,
+    "category": "erkek-giyim",
+    "subcategory": "gomlek",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "83",
+    "name": "Erkek gomlek Ürün 3",
+    "slug": "erkek-gomlek-r-n-3-83",
+    "price": 999,
+    "category": "erkek-giyim",
+    "subcategory": "gomlek",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "84",
+    "name": "Erkek gomlek Ürün 4",
+    "slug": "erkek-gomlek-r-n-4-84",
+    "price": 847,
+    "category": "erkek-giyim",
+    "subcategory": "gomlek",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "85",
+    "name": "Erkek pantolon Ürün 1",
+    "slug": "erkek-pantolon-r-n-1-85",
+    "price": 838,
+    "category": "erkek-giyim",
+    "subcategory": "pantolon",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "86",
+    "name": "Erkek pantolon Ürün 2",
+    "slug": "erkek-pantolon-r-n-2-86",
+    "price": 1421,
+    "category": "erkek-giyim",
+    "subcategory": "pantolon",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "87",
+    "name": "Erkek pantolon Ürün 3",
+    "slug": "erkek-pantolon-r-n-3-87",
+    "price": 299,
+    "category": "erkek-giyim",
+    "subcategory": "pantolon",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "88",
+    "name": "Erkek pantolon Ürün 4",
+    "slug": "erkek-pantolon-r-n-4-88",
+    "price": 564,
+    "category": "erkek-giyim",
+    "subcategory": "pantolon",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "89",
+    "name": "Erkek pantolon Ürün 5",
+    "slug": "erkek-pantolon-r-n-5-89",
+    "price": 1381,
+    "category": "erkek-giyim",
+    "subcategory": "pantolon",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "90",
+    "name": "Erkek jean Ürün 1",
+    "slug": "erkek-jean-r-n-1-90",
+    "price": 372,
+    "category": "erkek-giyim",
+    "subcategory": "jean",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "91",
+    "name": "Erkek jean Ürün 2",
+    "slug": "erkek-jean-r-n-2-91",
+    "price": 1448,
+    "category": "erkek-giyim",
+    "subcategory": "jean",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "92",
+    "name": "Erkek jean Ürün 3",
+    "slug": "erkek-jean-r-n-3-92",
+    "price": 1268,
+    "category": "erkek-giyim",
+    "subcategory": "jean",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "93",
+    "name": "Erkek jean Ürün 4",
+    "slug": "erkek-jean-r-n-4-93",
+    "price": 1443,
+    "category": "erkek-giyim",
+    "subcategory": "jean",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "94",
+    "name": "Erkek kazak Ürün 1",
+    "slug": "erkek-kazak-r-n-1-94",
+    "price": 990,
+    "category": "erkek-giyim",
+    "subcategory": "kazak",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "95",
+    "name": "Erkek kazak Ürün 2",
+    "slug": "erkek-kazak-r-n-2-95",
+    "price": 265,
+    "category": "erkek-giyim",
+    "subcategory": "kazak",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "96",
+    "name": "Erkek kazak Ürün 3",
+    "slug": "erkek-kazak-r-n-3-96",
+    "price": 1124,
+    "category": "erkek-giyim",
+    "subcategory": "kazak",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "97",
+    "name": "Erkek kazak Ürün 4",
+    "slug": "erkek-kazak-r-n-4-97",
+    "price": 943,
+    "category": "erkek-giyim",
+    "subcategory": "kazak",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "98",
+    "name": "Erkek kazak Ürün 5",
+    "slug": "erkek-kazak-r-n-5-98",
+    "price": 1077,
+    "category": "erkek-giyim",
+    "subcategory": "kazak",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "99",
+    "name": "Erkek sweatshirt Ürün 1",
+    "slug": "erkek-sweatshirt-r-n-1-99",
+    "price": 1259,
+    "category": "erkek-giyim",
+    "subcategory": "sweatshirt",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "100",
+    "name": "Erkek sweatshirt Ürün 2",
+    "slug": "erkek-sweatshirt-r-n-2-100",
+    "price": 1431,
+    "category": "erkek-giyim",
+    "subcategory": "sweatshirt",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "101",
+    "name": "Erkek sweatshirt Ürün 3",
+    "slug": "erkek-sweatshirt-r-n-3-101",
+    "price": 353,
+    "category": "erkek-giyim",
+    "subcategory": "sweatshirt",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "102",
+    "name": "Erkek sweatshirt Ürün 4",
+    "slug": "erkek-sweatshirt-r-n-4-102",
+    "price": 1426,
+    "category": "erkek-giyim",
+    "subcategory": "sweatshirt",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "103",
+    "name": "Erkek mont Ürün 1",
+    "slug": "erkek-mont-r-n-1-103",
+    "price": 437,
+    "category": "erkek-giyim",
+    "subcategory": "mont",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "104",
+    "name": "Erkek mont Ürün 2",
+    "slug": "erkek-mont-r-n-2-104",
+    "price": 1238,
+    "category": "erkek-giyim",
+    "subcategory": "mont",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "105",
+    "name": "Erkek mont Ürün 3",
+    "slug": "erkek-mont-r-n-3-105",
+    "price": 1219,
+    "category": "erkek-giyim",
+    "subcategory": "mont",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "106",
+    "name": "Erkek mont Ürün 4",
+    "slug": "erkek-mont-r-n-4-106",
+    "price": 971,
+    "category": "erkek-giyim",
+    "subcategory": "mont",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "107",
+    "name": "Erkek mont Ürün 5",
+    "slug": "erkek-mont-r-n-5-107",
+    "price": 469,
+    "category": "erkek-giyim",
+    "subcategory": "mont",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "108",
+    "name": "Erkek ceket Ürün 1",
+    "slug": "erkek-ceket-r-n-1-108",
+    "price": 1217,
+    "category": "erkek-giyim",
+    "subcategory": "ceket",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "109",
+    "name": "Erkek ceket Ürün 2",
+    "slug": "erkek-ceket-r-n-2-109",
+    "price": 663,
+    "category": "erkek-giyim",
+    "subcategory": "ceket",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "110",
+    "name": "Erkek ceket Ürün 3",
+    "slug": "erkek-ceket-r-n-3-110",
+    "price": 505,
+    "category": "erkek-giyim",
+    "subcategory": "ceket",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "111",
+    "name": "Erkek ceket Ürün 4",
+    "slug": "erkek-ceket-r-n-4-111",
+    "price": 313,
+    "category": "erkek-giyim",
+    "subcategory": "ceket",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "112",
+    "name": "Erkek ceket Ürün 5",
+    "slug": "erkek-ceket-r-n-5-112",
+    "price": 1539,
+    "category": "erkek-giyim",
+    "subcategory": "ceket",
+    "image": "https://images.unsplash.com/photo-1520975912812-2b4c4d8d0c3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Otomatik eklenen örnek ürün.",
+    "material": "Pamuk karışımı",
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "rating": 4.2
+  }
+]

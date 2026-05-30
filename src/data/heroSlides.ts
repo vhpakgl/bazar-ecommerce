@@ -1,0 +1,32 @@
+export const heroSlides = [
+  {
+    image: "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=1800&q=80",
+    tag: "Yaz İndirimi",
+    title: "%40’a Varan İndirim",
+    description: "Minimal parçalar şimdi sezon kampanyasıyla seni bekliyor.",
+    primaryButton: "Kampanyayı İncele",
+    primaryHref: "/indirim",
+    secondaryButton: "Tüm Ürünler",
+    secondaryHref: "/search",
+  },
+  {
+    image: "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=1800&q=80",
+    tag: "Yeni Koleksiyon",
+    title: "Monochrome Series",
+    description: "Siyah ve beyazın en güçlü haliyle tasarlanan yeni sezon ürünleri.",
+    primaryButton: "Koleksiyonu Gör",
+    primaryHref: "/koleksiyonlar",
+    secondaryButton: "Yeni Gelenler",
+    secondaryHref: "/yeni-gelenler",
+  },
+  {
+    image: "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=1800&q=80",
+    tag: "Sınırlı Süre",
+    title: "2 Al 1 Öde",
+    description: "Seçili ürünlerde geçerli özel fırsatları kaçırma.",
+    primaryButton: "Alışverişe Başla",
+    primaryHref: "/search",
+    secondaryButton: "Kampanya Detayı",
+    secondaryHref: "/indirim",
+  },
+];
